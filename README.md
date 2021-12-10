@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
 ## Project Overview:
 The project was use API data retieval process and build that into a trip planning process overlaying marker points with weather information.
